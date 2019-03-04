@@ -29,6 +29,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 ## Theory
 
 ## Books
+- [a book](https://github.com/open-source-workshop/awesome-random/blob/master/instructions.md)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 
